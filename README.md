@@ -1,2 +1,2 @@
 # ftpFuzz
-Python FTP fuzz stress tester
+Python FTP login fuzz stress tester
